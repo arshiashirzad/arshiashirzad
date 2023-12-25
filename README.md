@@ -3,15 +3,15 @@
 
 <img align="right" style="display: block ;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="400" height="400">
 <p align="left"> 
-- 🌱 I’m currently learning .NET Core new version , Java
+- 🌱 I’m currently learning .NET Core new version , Java , Sql techniques
 
-- 👯 I’m looking to collaborate on SystemGroup
+- 👯 I’m looking to collaborate on SystemGroup Company
 
-- 💬 Ask me about C#/.NET , Algorithm ,HTML/CSS
+- 💬 Ask me about: C# , .NET Framework , Algorithm ,HTML/CSS
 
-- 📫 How to reach me Sirzad383@gmail.com
+- 📫Reach me: sirzad383@gmail.com
 
-- ⚡ Fun fact Addicted to Coffee
+- ⚡ Addicted to Coffee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
