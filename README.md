@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Back-End developer from Iran</h3>
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="150" height="150">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiashirzad&label=Profile%20views&color=0e75b6&style=flat" alt="arshiashirzad" /> </p>
-
+<p align="right"> 
 - 🌱 I’m currently learning .NET Core new version , Java
 
 - 👯 I’m looking to collaborate on SystemGroup
