@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-<img align="right" style="display: block ;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="400" height="400">
+<img  align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBiYjh0Z21xcHltc3pqZXJldTlqMHd0eDFlMTRncno1aHI3azQ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2QpnSwLwr9fkDtiN4m/giphy.gif" alt="Tech Coding GIF by DronaHQ" style="width: 500px; height: 500px;">
 <p align="left"> 
 - 🌱 I’m currently learning .NET Core new version , Java , Sql techniques
 
