@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: C# , .NET Framework , Algorithm ,HTML/CSS
 
-- 📫Reach me: sirzad383@gmail.com
+- 📫 Reach me: sirzad383@gmail.com
 
 - ⚡ Addicted to Coffee
 
