@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">A passionate Back-End developer</h3>
-- 🔭 I’m currently working on **a semi-advanced java project(sudoko)**
-- 👯 I’m willingly looking for **working at Systemgroup company**
-- 🌱 I’m currently learning **ASP.NET core (version 8) , Java /JavaFX , Algorithmic techniques**
 
-- 📫 How to reach me **sirzad383@gmail.com**
+- 🔭 I’m currently working on a semi-advanced java project(sudoko)<br>
+
+- 👯 I’m willingly looking for working at Systemgroup company <br>
+
+- 🌱 I’m currently learning ASP.NET core (version 8) , Java /JavaFX , Algorithmic techniques<br>
+
+- 📫 How to reach me sirzad383@gmail.com
 
 <div> <a href="https://www.linkedin.com/in/arshiashirzad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/arshiashirzad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -27,17 +30,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiashirzad&layout=compact&theme=shades-of-purple" alt=arshiashirzad />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiashirzad&theme=shades-of-purple" alt="arshiashirzad" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/arshiashirzad">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiashirzad&layout=compact&theme=shades-of-purple" alt=arshiashirzad />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshiashirzad&theme=shades_of_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshiashirzad&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshiashirzad&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arshiashirzad&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiashirzad&theme=2077" height="180em" />
 </div>
