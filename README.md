@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on a semi-advanced java project(sudoko)<br>
 
-- 👯 I’m willingly looking for working at Systemgroup company <br>
-
 - 🌱 I’m currently learning ASP.NET core (version 8) , Java /JavaFX , Algorithmic techniques<br>
 
 - 📫 How to reach me sirzad383@gmail.com
