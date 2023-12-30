@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-- 🔭 I’m currently working on a semi-advanced java project(sudoko)<br>
+- 🔭 I’m currently working on a semi-advanced java project(Ticket System)<br>
 
 - 🌱 I’m currently learning ASP.NET core (version 8) , Java /JavaFX , Algorithmic techniques<br>
 
