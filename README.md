@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-- 🔭 I’m currently working on a Expense Tracker with .Net Core MVC <br>
+- 🔭 Working on a Expense Tracker with .Net Core MVC <br>
 
-- 🌱 I’m currently learning ASP.NET core (version 8) , Java /JavaFX , Algorithmic techniques<br>
+- 🌱 Currently learning .NET core  and Algorithmic techniques<br>
 
 - 📫 Reach me:sirzad383@gmail.com
 
