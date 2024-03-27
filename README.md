@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning .NET core , Docker, System designs and Algorithmic techniques<br>
 
-- 📫 Reach me: arshiashirzad@khu.ac.ir
+- 📫 Reach me:
 
 <div> <a href="https://www.linkedin.com/in/arshiashirzad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/arshia._.shirzad" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
