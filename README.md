@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-- 🔭 Working on an Expense Tracker web application with .Net Core MVC <br>
+- 🔭 Working on an snake windows game with c# <br>
 
 - 🌱 Currently learning .NET core , Docker, System designs and Algorithmic techniques<br>
 
