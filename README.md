@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-- 🔭 Working on a dictionary with c++ <br>
+- 🔭 Working on minimal Api<br>
 
 - 🌱 Currently learning .NET core , Docker, System designs and Algorithmic techniques<br>
 
